@@ -1,0 +1,8 @@
+Coloca aqui los logos oficiales de los medios de pago (descargalos del sitio o kit de marca de cada entidad):
+
+  pse.svg
+  bancolombia.svg
+  visa.svg
+  nequi.svg
+
+Tambien se aceptan .png con esos mismos nombres. Si el archivo no existe, la pagina muestra el nombre en texto.

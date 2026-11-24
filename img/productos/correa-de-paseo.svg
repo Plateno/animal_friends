@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Correa de paseo">
+<rect width="800" height="600" fill="#EFE6D8"/>
+
+<ellipse cx="400" cy="540" rx="260" ry="16" fill="#0C283E" opacity=".13"/>
+<ellipse cx="235" cy="195" rx="95" ry="64" fill="none" stroke="#B5653A" stroke-width="24"/>
+<path d="M305 238 C 430 300 330 410 470 425 C 535 432 580 412 620 402" fill="none" stroke="#B5653A" stroke-width="24" stroke-linecap="round"/>
+<path d="M305 238 C 430 300 330 410 470 425 C 535 432 580 412 620 402" fill="none" stroke="#fff" stroke-width="3" stroke-dasharray="10 12" opacity=".6"/>
+<circle cx="650" cy="394" r="28" fill="none" stroke="#8D9AA1" stroke-width="14"/>
+<rect x="612" y="388" width="34" height="22" rx="5" fill="#8D9AA1"/>
+</svg>

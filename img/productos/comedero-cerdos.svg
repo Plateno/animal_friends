@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Comedero para cerdos">
+<rect width="800" height="600" fill="#E1E8F0"/>
+
+<ellipse cx="400" cy="512" rx="270" ry="22" fill="#0C283E" opacity=".13"/>
+<path d="M140 332 Q140 468 400 478 Q660 468 660 332 Z" fill="#B5653A"/>
+<ellipse cx="400" cy="332" rx="260" ry="50" fill="#D98B5E"/>
+<ellipse cx="400" cy="336" rx="234" ry="37" fill="#7A4A2F"/>
+<g fill="#C3B497"><circle cx="290" cy="330" r="12"/><circle cx="338" cy="342" r="12"/><circle cx="392" cy="326" r="12"/><circle cx="446" cy="342" r="12"/><circle cx="498" cy="328" r="12"/><circle cx="540" cy="340" r="12"/></g>
+<g fill="#E2CFA2"><circle cx="316" cy="322" r="9"/><circle cx="418" cy="344" r="9"/><circle cx="470" cy="322" r="9"/><circle cx="364" cy="336" r="9"/></g>
+<ellipse cx="400" cy="420" rx="27" ry="21" fill="#fff"/><circle cx="366" cy="388" r="10" fill="#fff"/><circle cx="387" cy="373" r="10" fill="#fff"/><circle cx="413" cy="373" r="10" fill="#fff"/><circle cx="434" cy="388" r="10" fill="#fff"/>
+</svg>

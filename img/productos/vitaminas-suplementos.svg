@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Línea de vitaminas y suplementos">
+<rect width="800" height="600" fill="#D9EEE5"/>
+
+<ellipse cx="400" cy="498" rx="190" ry="18" fill="#0C283E" opacity=".13"/>
+<rect x="290" y="232" width="220" height="256" rx="34" fill="#fff"/>
+<rect x="290" y="300" width="220" height="126" fill="#DDD5C8"/>
+<path d="M400 322 C448 322 466 366 448 408 C402 402 368 372 400 322 Z" fill="#009868"/>
+<path d="M404 336 C 420 360 428 380 432 398" stroke="#fff" stroke-width="5" fill="none" stroke-linecap="round"/>
+<rect x="278" y="166" width="244" height="74" rx="18" fill="#B5653A"/>
+<g stroke="#96502B" stroke-width="4" stroke-linecap="round"><path d="M310 182v42M335 182v42M360 182v42M385 182v42M410 182v42M435 182v42M460 182v42M485 182v42"/></g>
+<rect x="308" y="250" width="14" height="224" rx="7" fill="#fff" opacity=".8"/>
+<g fill="#F2B84B" stroke="#D99A2B" stroke-width="3"><circle cx="190" cy="515" r="22"/><circle cx="238" cy="545" r="18"/><circle cx="610" cy="520" r="22"/><circle cx="566" cy="552" r="17"/></g>
+</svg>

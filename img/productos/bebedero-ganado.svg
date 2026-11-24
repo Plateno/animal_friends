@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Bebedero para ganado">
+<rect width="800" height="600" fill="#E1E8F0"/>
+
+<ellipse cx="400" cy="522" rx="290" ry="20" fill="#0C283E" opacity=".13"/>
+<rect x="196" y="428" width="38" height="88" rx="6" fill="#0C283E"/><rect x="566" y="428" width="38" height="88" rx="6" fill="#0C283E"/>
+<path d="M120 300 L680 300 L630 442 L170 442 Z" fill="#3F6A86"/>
+<path d="M140 304 Q200 286 260 304 T380 304 T500 304 T620 304 L662 304 L662 322 L140 322 Z" fill="#7FC8E6"/>
+<g stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".7"><path d="M200 312h60M330 312h40M470 312h70"/></g>
+<rect x="560" y="0" width="34" height="294" fill="#9AA7AD"/>
+<rect x="506" y="140" width="88" height="32" rx="12" fill="#9AA7AD"/>
+<path d="M525 196 C 538 214 546 224 546 236 A21 21 0 0 1 504 236 C 504 224 512 214 525 196 Z" fill="#7FC8E6"/>
+</svg>

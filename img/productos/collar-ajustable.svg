@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Collar ajustable">
+<rect width="800" height="600" fill="#EFE6D8"/>
+
+<ellipse cx="400" cy="556" rx="150" ry="18" fill="#0C283E" opacity=".13"/>
+<circle cx="400" cy="266" r="150" fill="none" stroke="#009868" stroke-width="46"/>
+<circle cx="400" cy="266" r="150" fill="none" stroke="#fff" stroke-width="3" stroke-dasharray="11 11" opacity=".75"/>
+<rect x="366" y="96" width="68" height="46" rx="9" fill="#C3B497" stroke="#8C7B57" stroke-width="4"/>
+<rect x="382" y="108" width="36" height="22" rx="4" fill="#EFE6D8"/>
+<circle cx="400" cy="430" r="15" fill="none" stroke="#8C7B57" stroke-width="7"/>
+<circle cx="400" cy="486" r="46" fill="#C3B497" stroke="#8C7B57" stroke-width="4"/>
+<ellipse cx="400" cy="498" rx="15" ry="12" fill="#B5653A"/><circle cx="381" cy="480" r="6" fill="#B5653A"/><circle cx="393" cy="472" r="6" fill="#B5653A"/><circle cx="407" cy="472" r="6" fill="#B5653A"/><circle cx="419" cy="480" r="6" fill="#B5653A"/>
+</svg>

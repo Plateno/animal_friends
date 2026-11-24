@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Línea de antiparasitarios">
+<rect width="800" height="600" fill="#D9EEE5"/>
+
+<ellipse cx="400" cy="498" rx="190" ry="18" fill="#0C283E" opacity=".13"/>
+<rect x="290" y="232" width="220" height="256" rx="34" fill="#fff"/>
+<rect x="290" y="300" width="220" height="126" fill="#009868"/>
+<ellipse cx="400" cy="378" rx="30" ry="23" fill="#fff"/><circle cx="362" cy="342" r="11" fill="#fff"/><circle cx="386" cy="326" r="11" fill="#fff"/><circle cx="414" cy="326" r="11" fill="#fff"/><circle cx="438" cy="342" r="11" fill="#fff"/>
+<rect x="278" y="166" width="244" height="74" rx="18" fill="#0C283E"/>
+<g stroke="#17415f" stroke-width="4" stroke-linecap="round"><path d="M310 182v42M335 182v42M360 182v42M385 182v42M410 182v42M435 182v42M460 182v42M485 182v42"/></g>
+<rect x="308" y="250" width="14" height="224" rx="7" fill="#fff" opacity=".8"/>
+<g transform="translate(190 520) rotate(-22)"><path d="M0 -22 H-28 A22 22 0 0 0 -28 22 H0 Z" fill="#009868"/><path d="M0 -22 H28 A22 22 0 0 1 28 22 H0 Z" fill="#fff" stroke="#C6D3D6" stroke-width="2"/></g><g transform="translate(620 525) rotate(18)"><path d="M0 -22 H-28 A22 22 0 0 0 -28 22 H0 Z" fill="#009868"/><path d="M0 -22 H28 A22 22 0 0 1 28 22 H0 Z" fill="#fff" stroke="#C6D3D6" stroke-width="2"/></g><g transform="translate(560 560) rotate(-8)"><path d="M0 -22 H-28 A22 22 0 0 0 -28 22 H0 Z" fill="#009868"/><path d="M0 -22 H28 A22 22 0 0 1 28 22 H0 Z" fill="#fff" stroke="#C6D3D6" stroke-width="2"/></g>
+</svg>

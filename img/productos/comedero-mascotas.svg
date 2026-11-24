@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Comedero para mascotas">
+<rect width="800" height="600" fill="#EFE6D8"/>
+
+<ellipse cx="400" cy="505" rx="230" ry="18" fill="#0C283E" opacity=".13"/>
+<path d="M185 300 L615 300 L565 458 Q559 484 534 484 L266 484 Q241 484 235 458 Z" fill="#009868"/>
+<ellipse cx="400" cy="300" rx="215" ry="44" fill="#1AAE80"/>
+<ellipse cx="400" cy="304" rx="190" ry="32" fill="#8A5535"/>
+<g fill="#C98A5C"><circle cx="318" cy="300" r="11"/><circle cx="360" cy="310" r="11"/><circle cx="404" cy="296" r="11"/><circle cx="448" cy="309" r="11"/><circle cx="486" cy="299" r="11"/></g>
+<g fill="#A8693F"><circle cx="340" cy="290" r="9"/><circle cx="430" cy="312" r="9"/><circle cx="378" cy="300" r="9"/><circle cx="466" cy="294" r="9"/></g>
+<ellipse cx="400" cy="408" rx="30" ry="23" fill="#fff"/><circle cx="362" cy="372" r="11" fill="#fff"/><circle cx="386" cy="356" r="11" fill="#fff"/><circle cx="414" cy="356" r="11" fill="#fff"/><circle cx="438" cy="372" r="11" fill="#fff"/>
+</svg>

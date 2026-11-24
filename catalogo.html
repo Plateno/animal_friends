@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Catálogo | Animal Friends Company</title>
+  <meta name="description" content="Catálogo de productos veterinarios y agropecuarios por tipo de animal.">
+  <link rel="icon" type="image/png" href="img/iconovet.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Figtree:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap bar">
+    <a class="brand" href="index.html" aria-label="Animal Friends Veterinary Medicines, inicio"><img src="img/logo.png" alt="Animal Friends Veterinary Medicines" width="700" height="229"></a>
+    <button class="menu-btn" id="menuBtn" aria-expanded="false" aria-controls="nav">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>Menú
+    </button>
+    <nav class="main" id="nav" aria-label="Principal">
+      <ul>
+        <li class="has-sub">
+          <a href="nosotros.html">Nosotros</a>
+          <button type="button" class="sub-toggle" aria-expanded="false" aria-controls="subNos" aria-label="Mostrar las secciones de Nosotros"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button>
+          <ul class="submenu" id="subNos">
+            <li><a href="nosotros.html#induccion-general">Inducción general</a></li>
+            <li><a href="nosotros.html#induccion-especifica">Inducción específica</a></li>
+            <li><a href="nosotros.html#bienestar-laboral">Bienestar laboral</a></li>
+            <li><a href="nosotros.html#evaluacion-desempeno">Evaluación del desempeño</a></li>
+          </ul>
+        </li>
+        <li><a href="catalogo.html" aria-current="page">Catálogo</a></li>
+        <li><a class="cta" href="index.html#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+<section class="page-head page-head--media">
+  <div class="page-head__media">
+    <img src="img/perrito.jpg" width="797" height="676">
+  </div>
+  <div class="wrap">
+    <p class="eyebrow">Catálogo</p>
+    <h1>Conoce nuestro catalogo de productos</h1>
+    <p class="lead">Filtra por animal y por tipo de producto.</p>
+  </div>
+</section>
+
+<section class="catalog" id="catalogo">
+  <div class="wrap">
+    <div class="filters">
+      <div class="fgroup" role="group" aria-label="Tipo de animal" id="fAnimal">
+        <button type="button" class="chip" data-animal="todos" aria-pressed="true">Todos</button>
+        <button type="button" class="chip" data-animal="Mascotas" aria-pressed="false">Mascotas</button>
+        <button type="button" class="chip" data-animal="ganaderia" aria-pressed="false">Ganadería</button>
+        <button type="button" class="chip" data-animal="porcinos" aria-pressed="false">Porcinos</button>
+      </div>
+      <div class="fgroup" role="group" aria-label="Tipo de producto" id="fTipo">
+        <button type="button" class="chip chip-alt" data-tipo="todos" aria-pressed="true">Todos los productos</button>
+        <button type="button" class="chip chip-alt" data-tipo="medicamentos" aria-pressed="false">Medicamentos</button>
+        <button type="button" class="chip chip-alt" data-tipo="cuidado" aria-pressed="false">Cuidado animal</button>
+        <button type="button" class="chip chip-alt" data-tipo="accesorios" aria-pressed="false">Accesorios para mascotas</button>
+      </div>
+    </div>
+    <p class="count" id="catCount" aria-live="polite"></p>
+    <div class="products" id="catGrid"></div>
+  </div>
+</section>
+</main>
+
+<footer class="redes-sociales">
+  <div class="wrap pay">
+    <p class="pay-label">Medios de pago</p>
+    <ul class="pay-list" aria-label="Medios de pago">
+      <li data-logo="pse">PSE</li>
+      <li data-logo="bancolombia">Bancolombia</li>
+      <li data-logo="visa">Visa</li>
+      <li data-logo="nequi">Nequi</li>
+    </ul>
+  </div>
+  <div class="wrap foot">
+    <ul class="icons" aria-label="Redes sociales">
+      <li>
+        <a id="instagram" href="https://www.instagram.com/animalfriendscompany/" target="_blank" rel="noopener" aria-label="Instagram: @animalfriendscompany">
+          <span></span><span></span><span></span><span></span>
+          <span><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.2" cy="6.8" r=".8" fill="currentColor"/></svg></span>
+        </a>
+      </li>
+      <li>
+        <!-- TODO: reemplazar por la URL real de la página de Facebook -->
+        <a id="facebook" href="https://www.facebook.com/search/top?q=Animal%20Friends%20Company" target="_blank" rel="noopener" aria-label="Facebook: Animal Friends Company">
+          <span></span><span></span><span></span><span></span>
+          <span><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 8h3V4h-3a4 4 0 00-4 4v3H7v4h3v6h4v-6h3l1-4h-4V8z"/></svg></span>
+        </a>
+      </li>
+    </ul>
+
+    <p class="licencia">Copyright &copy; Animal Friends Company 2026</p>
+
+    <ul class="politica">
+      <li><a href="#">Política de Privacidad</a></li>
+      <li><a href="#">Términos de Uso</a></li>
+    </ul>
+  </div>
+</footer>
+
+<script src="catalogo.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Comedero para ganado">
+<rect width="800" height="600" fill="#E1E8F0"/>
+
+<ellipse cx="400" cy="522" rx="290" ry="20" fill="#0C283E" opacity=".13"/>
+<rect x="196" y="428" width="38" height="88" rx="6" fill="#395549"/><rect x="566" y="428" width="38" height="88" rx="6" fill="#395549"/>
+<path d="M120 300 L680 300 L630 442 L170 442 Z" fill="#66836E"/>
+<path d="M170 372 H630" stroke="#55705F" stroke-width="7"/>
+<path d="M140 298 Q220 232 300 282 Q370 222 450 276 Q530 226 600 280 Q640 262 662 298 Z" fill="#D8B86A"/>
+<g stroke="#B8964A" stroke-width="5" stroke-linecap="round"><path d="M210 280l30-26M300 270l22-28M400 262l18-30M500 268l24-26M590 272l24-22"/></g>
+<rect x="116" y="292" width="568" height="22" rx="11" fill="#395549"/>
+</svg>
